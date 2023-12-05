@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Hello_React_Native",
+    "slug": "Hello_React_Native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Hello_React_Native"
+}
